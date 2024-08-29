@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electrónica"
+    },
+    {
+      "id": 2,
+      "name": "Ropa"
+    },
+    {
+      "id": "d347",
+      "name": "nuevo"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Camiseta",
+      "categoryId": 2
+    },
+    {
+      "id": "dc97",
+      "name": "celular",
+      "categoryId": 1
+    }
+  ]
+}

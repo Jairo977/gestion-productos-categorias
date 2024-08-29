@@ -1,0 +1,11 @@
+{
+    "categories": [
+      { "id": 1, "name": "Electrónica" },
+      { "id": 2, "name": "Ropa" }
+    ],
+    "products": [
+      { "id": 1, "name": "Laptop", "categoryId": 1 },
+      { "id": 2, "name": "Camiseta", "categoryId": 2 }
+    ]
+  }
+  
